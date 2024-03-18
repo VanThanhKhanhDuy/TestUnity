@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Character-idle
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 980841607, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: -2065991493, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: -745441862, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: 1432128775, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: -233769538, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: -1192262903, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: -987234153, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: -484923226, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: 240764325, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: 1538053391, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: -803926831, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: -1191069725, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: 1499526633, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: 1065466452, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: -1233899747, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: -1134966883, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: -1072873846, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  - {fileID: 127536914, guid: ff30d3c8241a13a4089d1a4b3ddddf01, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Character-idle_8
+  - Character-idle_9
+  - Character-idle_6
+  - Character-idle_7
+  - Character-idle_4
+  - Character-idle_5
+  - Character-idle_2
+  - Character-idle_3
+  - Character-idle_0
+  - Character-idle_1
+  - Character-idle_15
+  - Character-idle_14
+  - Character-idle_17
+  - Character-idle_16
+  - Character-idle_11
+  - Character-idle_10
+  - Character-idle_13
+  - Character-idle_12
+  m_RenderDataMap: {}
+  m_Tag: Character-idle
+  m_IsVariant: 0
